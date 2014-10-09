@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt-get install -y git tree mc emacs24-nox
+sudo apt-get install -y git tree mc emacs24-nox openjdk-7-jdk
 
 # check to see if lein is installed before installing
 which lein
